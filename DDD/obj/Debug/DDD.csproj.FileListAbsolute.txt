@@ -1,0 +1,11 @@
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\obj\Debug\DDD.Form1.resources
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\obj\Debug\DDD.Properties.Resources.resources
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\obj\Debug\DDD.csproj.GenerateResource.Cache
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\obj\Debug\DDD.csprojResolveAssemblyReference.cache
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\bin\Debug\DDD.exe.config
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\bin\Debug\DDD.exe
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\bin\Debug\DDD.pdb
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\bin\Debug\DDDTools.dll
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\bin\Debug\DDDTools.pdb
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\obj\Debug\DDD.exe
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\obj\Debug\DDD.pdb

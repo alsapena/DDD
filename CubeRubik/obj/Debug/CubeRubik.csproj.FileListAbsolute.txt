@@ -31,3 +31,6 @@ F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\D
 F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.csproj.GenerateResource.Cache
 F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.exe
 F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.exe.config
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.exe
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.pdb
