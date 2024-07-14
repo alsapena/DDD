@@ -9,3 +9,14 @@ C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\bin\Debu
 C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.csprojResolveAssemblyReference.cache
 C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.exe
 C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\bin\Debug\PolygonTest.exe.config
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\bin\Debug\PolygonTest.exe
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\bin\Debug\PolygonTest.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\bin\Debug\DDDTools.dll
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\bin\Debug\DDDTools.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.csprojResolveAssemblyReference.cache
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.Form1.resources
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.Properties.Resources.resources
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.csproj.GenerateResource.Cache
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.exe
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.pdb

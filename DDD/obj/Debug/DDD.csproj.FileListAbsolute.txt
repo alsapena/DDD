@@ -9,3 +9,14 @@ C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\bin\Debug\DDDToo
 C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\bin\Debug\DDDTools.pdb
 C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\obj\Debug\DDD.exe
 C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\DDD\obj\Debug\DDD.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\bin\Debug\DDD.exe.config
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\bin\Debug\DDD.exe
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\bin\Debug\DDD.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\bin\Debug\DDDTools.dll
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\bin\Debug\DDDTools.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\obj\Debug\DDD.csprojResolveAssemblyReference.cache
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\obj\Debug\DDD.Form1.resources
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\obj\Debug\DDD.Properties.Resources.resources
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\obj\Debug\DDD.csproj.GenerateResource.Cache
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\obj\Debug\DDD.exe
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDD\obj\Debug\DDD.pdb

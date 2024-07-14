@@ -12,3 +12,8 @@ F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\bin\De
 F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\bin\Debug\DDDTools.pdb
 F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\obj\Debug\DDDTools.dll
 F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\obj\Debug\DDDTools.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\bin\Debug\DDDTools.dll
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\bin\Debug\DDDTools.pdb
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\obj\Debug\DDDTools.csprojResolveAssemblyReference.cache
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\obj\Debug\DDDTools.dll
+G:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\DDDTools\obj\Debug\DDDTools.pdb
