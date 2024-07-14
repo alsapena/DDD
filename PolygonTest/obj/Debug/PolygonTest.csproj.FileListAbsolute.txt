@@ -1,0 +1,11 @@
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.Form1.resources
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.Properties.Resources.resources
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.csproj.GenerateResource.Cache
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\bin\Debug\PolygonTest.exe.config
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\bin\Debug\PolygonTest.exe
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\bin\Debug\PolygonTest.pdb
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\bin\Debug\DDDTools.dll
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\bin\Debug\DDDTools.pdb
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.csprojResolveAssemblyReference.cache
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.exe
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\PolygonTest\obj\Debug\PolygonTest.pdb

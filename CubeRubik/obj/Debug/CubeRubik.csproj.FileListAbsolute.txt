@@ -1,0 +1,33 @@
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.Form1.resources
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.Properties.Resources.resources
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.csproj.GenerateResource.Cache
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.csprojResolveAssemblyReference.cache
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.exe.config
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.exe
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.pdb
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\bin\Debug\DDDTools.dll
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\bin\Debug\DDDTools.pdb
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.exe
+C:\Users\Letziray\documents\visual studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.pdb
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.exe.config
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.exe
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.pdb
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.exe
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.pdb
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\DDDTools.dll
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\DDDTools.pdb
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.csprojResolveAssemblyReference.cache
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.Form1.resources
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.Properties.Resources.resources
+M:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.csproj.GenerateResource.Cache
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.exe.config
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.exe
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\CubeRubik.pdb
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\DDDTools.dll
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\bin\Debug\DDDTools.pdb
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.csprojResolveAssemblyReference.cache
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.Form1.resources
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.Properties.Resources.resources
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.csproj.GenerateResource.Cache
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.exe
+F:\Saves\Memo 24-11-17\Documents\Visual Studio 2013\Projects\DDD\CubeRubik\obj\Debug\CubeRubik.pdb
